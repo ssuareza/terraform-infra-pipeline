@@ -29,7 +29,7 @@ It basically creates two S3 buckets:
 
 ## Destroy
 
-You can remove all the Terraform created resources by editing "terraform/destroy.json" file. Set the value to "true" and commit your changes.
+You can remove all the Terraform created resources by editing the `terraform/destroy.json` file. Set the value to "true" and commit your changes.
 
 ## Reference
 
